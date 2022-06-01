@@ -1,5 +1,5 @@
 ## Hi there 👋
-ARBML a group of researchers working on democratizing Arabic NLP research and deveopment: 
+*ARBML* is a group of researchers working on democratizing Arabic NLP research and deveopment: 
 - 🙋‍♀️ All about Arabic NLP and ML, open source for the win!
 - 🏵️ Contribution guidelines - open an issue and given the go-ahead submit a PR.
 - 👩‍💻 Some repos have specific contribution guidlines.
