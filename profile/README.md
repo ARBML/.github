@@ -1,4 +1,4 @@
-<a href="https://github.com/arbml"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/arbml?style=social"></a> <a href="https://discord.gg/aN2vaec9nV"><img src="https://img.shields.io/discord/980361830390169630?logo=discord"></a>  <a href="https://twitter.com/arabicml2"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arabicml2?style=social"></a> [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](=https://huggingface.co/arbml)
+<a href="https://github.com/arbml"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/arbml?style=social"></a> <a href="https://discord.gg/aN2vaec9nV"><img src="https://img.shields.io/discord/980361830390169630?logo=discord"></a>  <a href="https://twitter.com/arabicml2"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arabicml2?style=social"></a> [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/arbml)
 
 
 
